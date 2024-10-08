@@ -7,3 +7,6 @@
 - gradle clean build
 
 
+## Для запуска в консоли пропишите:
+java -jar /onvenientSoftware-0.0.1-SNAPSHOT.jar - для Linux
+java -jar C:\Users\user\onvenientSoftware-0.0.1-SNAPSHOT.jar - для Windows
